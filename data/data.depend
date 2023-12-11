@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702286058 source:c:\users\tarkh\projects\data\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1702285521 source:c:\users\tarkh\projects\data\src\data.c
+	"data.h"
+
+1702282547 c:\users\tarkh\projects\data\inc\data.h
+	<stdint.h>
+
